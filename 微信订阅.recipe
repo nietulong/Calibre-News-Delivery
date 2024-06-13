@@ -10,5 +10,4 @@ class BasicUserRecipe1715154291(AutomaticNewsRecipe):
 
     feeds          = [
         ('微信订阅', 'http://131.186.45.220:4000/feeds/all.atom'),
-        ('知乎热板', 'https://rsshub.app/zhihu/hotlist'),
     ]
